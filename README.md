@@ -3,6 +3,11 @@ MediaFundingAnalysis
 
 Is there any correlation of Media Freedom and Public Funding?
 
+Authors
+-------
+James F. M. Quacinella
+Akiva M. G. Sharma
+
 
 Resources
 ---------
